@@ -1,0 +1,16 @@
+@echo f
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+title: 'virus'
